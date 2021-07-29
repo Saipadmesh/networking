@@ -1,0 +1,16 @@
+Date,User,Bandwidth,Time,Total,ipAddress
+24-Jan,Ramesh,24,10,240,
+24-Jan,Ravi,10,12,120,
+24-Jan,Ram,12,10,120,
+24-Jan,Ramya,20,12,240,
+24-Jan,Ravi,100,10,1000,
+25-Jan,Senthil,150,20,3000,
+25-Jan,Ramesh,160,22,3520,
+25-Jan,Ragu,200,23,4600,
+25-Jan,Veeran,10,14,140,
+26-Jan,Kathir,23,15,345,
+26-Jan,Karthik,22,18,396,
+27-Jan,Kavin,32,23,736,
+27-Jan,Babu,15,22,330,
+27-Jan,Vidya,16,20,320,
+29-Jan,Sai,18,12,216,192.168.0.5
