@@ -1,0 +1,12 @@
+Date,FoodID,Quantity,Cost,Category,Totalcost
+5-8-21,A101,2,30,Apple,60
+4-8-21,D102,4,50,Dosa,200
+5-8-21,A102,2,30,Apple,60
+5-8-21,B101,3,180,Biriyani,540
+5-8-21,A102,3,30,Apple,90
+5-8-21,B101,4,180,Biriyani,720
+3-8-21,I162,2,150,Italian,300
+3-8-21,I102,6,80,Italian,480
+3-8-21,A102,6,30,Apple,180
+4-8-21,B102,4,120,Biriyani,480
+2-8-21,B202,2,200,Biriyani,400
